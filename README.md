@@ -14,6 +14,12 @@ The technologies or tools listed below figure between the most relevant on the d
 - Arduino CLI
 - Atmel Microcontrollers
 
+## Scientific publications related
+
+You can read the article based on **EasyCode** that was published in 2017 by the Federal University of Pernambuco (Recife, Brazil) in this [link](http://nehte.com.br/simposio/anais/Anais-Hipertexto-2017/ANAIS%20HIPERTEXTO%202018%20Emmerson%20OLIVEIRA.pdf). The article was written and publised in Portuguese.
+
+
+
 # Team
 
 This tool was created as a scientific initiation project at the **Campus Manaus Centro** of **Federal Institute for Education, Science and Technology of Amazonas** and was developed by:

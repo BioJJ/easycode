@@ -5,7 +5,7 @@ O EasyCode é uma ferramenta de programação visual desenvolvida em **Java** e 
 
 A ferramenta também suporta a programação de **Arduino** com blocos, usando o [Arduino CLI](https://github.com/arduino/arduino-cli) para carregar e executar o código **C/Wiring** gerado para o microcontrolador.
 
-## Technologies used
+## Tecnologias utilizadas
 As tecnologias ou ferramentas listadas abaixo estão entre as mais relevantes no desenvolvimento deste projeto:
 
 - Java 1.8
@@ -13,6 +13,10 @@ As tecnologias ou ferramentas listadas abaixo estão entre as mais relevantes no
 - Java Swing
 - Arduino CLI
 - Microcontroladores Atmel
+
+## Publicações Científicas relacionadas
+
+Você pode ler um artigo baseado no **EasyCode**, publicado em 2017 pela Universidade Federal de Pernambuco (Recife - PE) neste [link](http://nehte.com.br/simposio/anais/Anais-Hipertexto-2017/ANAIS%20HIPERTEXTO%202018%20Emmerson%20OLIVEIRA.pdf). 
 
 # Equipe
 
